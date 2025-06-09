@@ -32,7 +32,7 @@ This project was developed as a learning exercise to explore:
 
 ## 📋 Prerequisites
 
-- Gmail account with ["Less Secure Apps" enabled](https://myaccount.google.com/lesssecureapps) or [App Password](https://myaccount.google.com/apppasswords) if using 2FA
+- Gmail account with [App Password](https://myaccount.google.com/apppasswords) if using 2FA
 - Java 17+ JDK
 - Maven installed
 
